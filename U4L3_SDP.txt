@@ -1,0 +1,3 @@
+1. I will use a similar technique in the reversing process, putting every word into a stack and then taking it out.
+
+2. The process of getting the file able to be reversed will be different.
